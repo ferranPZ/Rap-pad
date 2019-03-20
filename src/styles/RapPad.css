@@ -1,0 +1,95 @@
+.card{
+    
+  
+
+}
+
+
+.form-control-sm{  
+    text-align: center;
+    
+    
+  }
+
+  input[type="text"], textarea {
+
+    background-color : #222326 !important; 
+    color: white !important; 
+  }
+
+
+
+
+.card-header{
+    white-space: nowrap;
+    display: inline;
+    
+}
+
+
+   
+.card-header * {
+    display: inline;
+   }
+
+.config{
+    position: absolute;
+  top: 1vw; 
+  right: 1vw;
+}
+
+.card-header{
+    min-height: 5vw;
+}
+
+
+.word{
+    background-color: black;
+    color: white;
+    height: 20vw;
+    font-size: 4vw;
+}
+
+
+p{
+    margin: auto;
+    
+}
+
+
+
+.seg{
+    margin: auto;
+    position: absolute;
+    right: 1vw;
+    left: 1vw;
+    
+}
+
+
+.progress-bar{
+  
+    background-color:rgb(75, 75, 189);
+    
+    
+}
+
+.progress{
+    height: 3vw;
+    background-color: rgb(25, 25, 95);
+    font-size: 2vw;
+
+
+    border-radius: 0px;
+
+}
+
+
+.rimas{
+    overflow-y:scroll;
+    height: 16vw;
+    width: 100%;    
+    margin: 0;
+    
+}
+

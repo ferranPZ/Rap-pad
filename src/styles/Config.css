@@ -1,0 +1,45 @@
+.card{
+    margin: 2vw auto;
+    width: 90%;
+    color: white;
+    background: #222326;
+    height: 30vw;
+
+}
+
+.badge{
+    cursor:pointer
+}
+
+
+.form-control-sm{  
+    text-align: center;
+    
+    
+  }
+  input[type="text"], textarea {
+
+    background-color : #222326 !important; 
+    color: white !important; 
+  }
+
+
+
+label{  
+    width:100px;
+
+}
+
+span{
+    font-size: 78%;
+   
+    height: 5%;
+}
+
+.custom-select{
+    width: 5vw;
+    background-color: #222326;
+    color: white;
+}
+
+
